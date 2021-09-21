@@ -24,3 +24,17 @@ Make the playlist unique to the user(hint: playlist has a userId property so eac
 User can Order the songs on the playlist(hint: songs have an order property)
 Users can make multiple playlists(hint: playlists have a userId property and the user can select which playlist to add a song to. )
 Only one song plays at a time(hint: Make a single player component to pass data to.)
+
+
+## Legal Overview
+
+The content under the CodeWorks®, LLC Organization and all of the individual repos are soley intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+
+---
+
+## Copyright
+
+© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
+
+
+<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
